@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  claude-bot:
+    build: .
+    container_name: claude-defi-analyst
+    env_file:
+      - .env
