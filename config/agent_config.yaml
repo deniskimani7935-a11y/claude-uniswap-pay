@@ -1,0 +1,5 @@
+agent:
+  name: "Claude DeFi Analyst"
+trading:
+  price_threshold: 3000
+  buy_amount_usd: 5.0
